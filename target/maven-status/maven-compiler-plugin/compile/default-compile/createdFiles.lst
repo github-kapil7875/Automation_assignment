@@ -1,0 +1,4 @@
+PageObjects\BaseClass.class
+PageObjects\CollectionSearchPage.class
+PageObjects\DetailPage.class
+PageObjects\HomePage.class
